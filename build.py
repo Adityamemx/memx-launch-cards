@@ -87,9 +87,9 @@ body.render .exportframe > .stage { transform:none !important; width:1270px; hei
 .acfoot { display:flex; align-items:center; gap:9px; margin-top:18px; font-size:13.5px; color:#8f95a0; }
 .acfoot .k { color:#5B9CD8; }
 /* CTA (download) */
-.ctamedia { flex:0 0 auto; width:560px; display:flex; align-items:center; justify-content:center;
+.ctamedia { flex:0 0 auto; width:520px; display:flex; align-items:center; justify-content:center;
   position:relative; z-index:2; }
-.ctaphone { height:620px; width:auto; display:block; }
+.ctaphone { height:720px; width:auto; display:block; }
 .badges { display:flex; gap:10px; margin-top:30px; flex-wrap:wrap; }
 .badge { display:inline-flex; align-items:center; gap:8px; font-size:15px; font-weight:600; color:#1D1D1F;
   background:#fff; padding:10px 16px; border-radius:12px;
